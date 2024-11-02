@@ -1,4 +1,3 @@
-# Data-driven-enzyme-catalysis  
 🔍 This is a repository for Data-Driven methods of Enzyme Catalysis.
 ---
 
