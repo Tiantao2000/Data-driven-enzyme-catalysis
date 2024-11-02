@@ -1,31 +1,38 @@
-# Data-driven-enzyme-catalysis
-![overview](toc-graph.tif) 
-🔍 This is a repository for AI-based retrosynthesis methods.
+# Data-driven-enzyme-catalysis  
+🔍 This is a repository for Data-Driven methods of Enzyme Catalysis.
+---
 
-[![stars](https://shields.io/github/stars/Tiantao2000/Data-driven-enzyme-catalysis?style=social)](https://github.com/Tiantao2000/Data-driven-enzyme-catalysis)    🔗 Link directly to <a href="#Figures">Figures</a>, <a href="#Tables">Tables</a>
+<p align="center">
+  <img src="toc-graph.png" alt="overview" width="400px">
+<p align="center">
+  <em>Toc-Graph</em>
+</p>
 
-✅ __What sets us apart from similar resources:__
+![GitHub forks](https://img.shields.io/github/forks/Tiantao2000/Data-driven-enzyme-catalysis?style=social) ![GitHub stars](https://img.shields.io/github/stars/Tiantao2000/Data-driven-enzyme-catalysis?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/Tiantao2000/Data-driven-enzyme-catalysis?style=social)
 
-1. Versatile Tags: Organize and filter papers easily.
-2. Easy Navigation: Internal links for quick jumps between sections and papers.
-3. Expert Insights: Links to expert reviews and analysis.
-4. Tag System: Quickly catch the paper features
-5. [CSV Downloads](data/paper.csv): Quick access to paper data in `CSV` format.
-6. Automation: Use [Liquid](https://liquid.readthedocs.io/en/latest/) templates to generate Markdown from `CSV`, making it easy to build your own paper repository. >>> [[Details](CONTRIBUTING.md)]
 
-📅 _Papers last six month, updated on 2024-9-10:_
+🔗 Link directly to <a href="#Figures">Figures</a>, <a href="#Tables">Tables</a>
+
+
 
 ---
 
-## 0. Benchmarks and Datasets
+✅ __What sets us apart from similar resources:__
 
-### 0.1 Benchmarks
-
-#### 0.1.1 Sequence Benchmarks
-
-#### 0.1.2 Structure Benchmarks
+1. Versatile Tags: Important papers that are Well Organized.
+2. Effortless Navigation: Internal links facilitate quick transitions between sections and papers.
 
 
+
+📅 _ updated on 2024-9-10:_
+
+---
+## 1. Introduction
+## 2.	Data and databases for modeling enzyme catalysis
+## 3. Reaction-level modeling for enzyme catalysis
+## 4. Pathway-level modeling for enzyme catalysis
+## 5. Enzyme-level modeling for enzyme catalysis
+## 6. Discussion
 
 <picture>
   <source
