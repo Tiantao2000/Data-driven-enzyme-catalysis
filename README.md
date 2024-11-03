@@ -10,9 +10,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/Tiantao2000/Data-driven-enzyme-catalysis?style=social) ![GitHub stars](https://img.shields.io/github/stars/Tiantao2000/Data-driven-enzyme-catalysis?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/Tiantao2000/Data-driven-enzyme-catalysis?style=social)
 
 
-🔗 Link directly to <a href="#Figures">Figures</a>, <a href="#Tables">Tables</a>
-
-
+🔗 Link directly to [Figures](https://github.com/Tiantao2000/Data-driven-enzyme-catalysis/tree/main/Figures#figures), [Tables](https://github.com/Tiantao2000/Data-driven-enzyme-catalysis/tree/main/Tables#tables)
 
 ---
 
