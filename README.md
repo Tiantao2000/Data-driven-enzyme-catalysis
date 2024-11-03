@@ -47,7 +47,7 @@
 
 [4] Bansal, P., Morgat, A., Axelsen, K.B., Muthukrishnan, V., Coudert, E., Aimo, L., Hyka-Nouspikel, N., Gasteiger, E., Kerhornou, A., & Neto, T.B. (2022). [Rhea, the reaction knowledgebase in 2022](https://academic.oup.com/nar/article/50/D1/D693/6424769). *Nucleic Acids Research*, 50, D693-D700.
 
-[5] Milacic, M., Beavers, D., Conley, P., Gong, C., Gillespie, M., Griss, J., Haw, R., Jassal, B., Matthews, L., & May, B. (2024). [The Reactome pathway knowledgebase 2024](https://academic.oup.
+[5] Milacic, M., Beavers, D., Conley, P., Gong, C., Gillespie, M., Griss, J., Haw, R., Jassal, B., Matthews, L., & May, B. (2024). [The Reactome pathway knowledgebase 2024](https://academic.oup.com/nar/article/52/D1/D672/7369850). *Nucleic Acids Research*, 52, D672-D678.
 
 ## 3. Reaction-level modeling for enzyme catalysis
 [1] Finnigan, W., Hepworth, L.J., Flitsch, S.L., & Turner, N.J. (2021). [RetroBioCat as a computer-aided synthesis planning tool for biocatalytic reactions and cascades](https://www.nature.com/articles/s41929-020-00556-z)
