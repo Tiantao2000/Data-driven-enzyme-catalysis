@@ -91,17 +91,17 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=tiantao2000/Data-driven-enzyme-catalysis&type=Date&theme=dark
+      https://api.star-history.com/svg?repos=Tiantao2000/Data-driven-enzyme-catalysis&type=Date&theme=dark
     "
   />
   <source
     media="(prefers-color-scheme: heavy)"
     srcset="
-      https://api.star-history.com/svg?repos=tiantao2000/Data-driven-enzyme-catalysis&type=Date
+      https://api.star-history.com/svg?repos=Tiantao2000/Data-driven-enzyme-catalysis&type=Date
     "
   />
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=tiantao2000/Data-driven-enzyme-catalysis&type=Date" 
+    src="https://api.star-history.com/svg?repos=Tiantao2000/Data-driven-enzyme-catalysis&type=Date" 
   />
 </picture>
