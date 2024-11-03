@@ -45,7 +45,7 @@
 
 [3] Caspi, R., Billington, R., Keseler, I.M., Kothari, A., Krummenacker, M., Midford, P.E., Ong, W.K., Paley, S., Subhraveti, P., & Karp, P.D. (2020). [The MetaCyc database of metabolic pathways and enzymes—a 2019 update](https://academic.oup.com/nar/article/48/D1/D445/5581728). *Nucleic Acids Research*, 48, D445-D453.
 
-[4] Bansal, P., Morgat, A., Axelsen, K.B., Muthukrishnan, V., Coudert, E., Aimo, L., Hyka-Nouspikel, N., Gasteiger, E., Kerhornou, A., & Neto, T.B. (2022). [Rhea, the reaction knowledgebase in 2022](https://a
+[4] Bansal, P., Morgat, A., Axelsen, K.B., Muthukrishnan, V., Coudert, E., Aimo, L., Hyka-Nouspikel, N., Gasteiger, E., Kerhornou, A., & Neto, T.B. (2022). [Rhea, the reaction knowledgebase in 2022](https://academic.oup.com/nar/article/50/D1/D693/6424769). *Nucleic Acids Research*, 50, D693-D700.
 
 [5] Milacic, M., Beavers, D., Conley, P., Gong, C., Gillespie, M., Griss, J., Haw, R., Jassal, B., Matthews, L., & May, B. (2024). [The Reactome pathway knowledgebase 2024](https://academic.oup.
 
