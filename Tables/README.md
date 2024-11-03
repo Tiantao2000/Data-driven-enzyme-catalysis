@@ -1,4 +1,5 @@
-# Table 1 Representation methods for enzyme catalysis
+# Tables
+## Table 1 Representation methods for enzyme catalysis
 
 |Method|Description|Visualization|Ref<sup>a</sup>|
 | :-: | :-: | :-: | :-: |
@@ -14,7 +15,7 @@
 
 <sup>a</sup>The selected reference is a classic example of using or describing the corresponding representation.
 
-# Table 2 Major databases for enzyme catalysis 
+## Table 2 Major databases for enzyme catalysis 
 
 |Database|Data|Website|` `Date|Ref|
 | :-: | :-: | :-: | :-: | :-: |
@@ -34,7 +35,7 @@
 
 
 
-# Table 3 *De novo* pathway expansion methods
+## Table 3 *De novo* pathway expansion methods
 
 |Method|Single-step model|Search algorithm|Additional Information |Ref|
 | :-: | :-: | :-: | :-: | - |
@@ -60,7 +61,7 @@
 
 
 
-# Reference
+## Reference
 
 1.	Weininger, D. (1988). SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules. Journal of chemical information and computer sciences *28*, 31-36.
 
