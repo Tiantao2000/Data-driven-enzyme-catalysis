@@ -96,7 +96,9 @@ Finnigan, W., Hepworth, L.J., Flitsch, S.L., & Turner, N.J. (2021). [RetroBioCat
   title     = {Data-Driven Revolution of Enzyme Catalysis: from the Perspective of Reactions, Pathways, and Enzymes},
   author    = {Tiantao Liu},
   year      = {2024},
-  journal   = {}
+  journal   = {},
+  volume = {},
+  pages = {}
 }
 ```
 ---
