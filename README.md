@@ -77,7 +77,7 @@ Finnigan, W., Hepworth, L.J., Flitsch, S.L., & Turner, N.J. (2021). [RetroBioCat
 
 [3] Watson, J.L., Juergens, D., Bennett, N.R., Trippe, B.L., Yim, J., Eisenach, H.E., Ahern, W., Borst, A.J., Ragotte, R.J., & Milles, L.F. (2023). [De novo design of protein structure and function with RFdiffusion](https://www.nature.com/articles/s41586-023-06415-8). *Nature*, 620, 1089-1100.
 
-[4] Wicky, B., Milles, L., Courbet, A., Ragotte, R., Dauparas, J., Kinfu, E., Tipps, S., Kibler, R., Baek, M., & DiMaio, F. (2022). [Hallucinating symmetric protein assemblies](https://www.science.org/doi/full/10.1126/scie
+[4] Wicky, B., Milles, L., Courbet, A., Ragotte, R., Dauparas, J., Kinfu, E., Tipps, S., Kibler, R., Baek, M., & DiMaio, F. (2022). [Hallucinating symmetric protein assemblies](https://www.science.org/doi/full/10.1126/science.add1964). *Science*, 378, 56-61.
 
 [5] Song, Z., Zhao, Y., Shi, W., Jin, W., Yang, Y., & Li, L. (2024). [Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates](https://arxiv.org/abs/2405.08205). *arXiv preprint arXiv:2405.08205*.
 
