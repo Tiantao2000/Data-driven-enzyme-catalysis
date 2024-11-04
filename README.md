@@ -48,7 +48,7 @@
 [5] Milacic, M., Beavers, D., Conley, P., Gong, C., Gillespie, M., Griss, J., Haw, R., Jassal, B., Matthews, L., & May, B. (2024). [The Reactome pathway knowledgebase 2024](https://academic.oup.com/nar/article/52/D1/D672/7369850). *Nucleic Acids Research*, 52, D672-D678.
 
 ## 3. Reaction-level modeling for enzyme catalysis
-[1] Finnigan, W., Hepworth, L.J., Flitsch, S.L., & Turner, N.J. (2021). [RetroBioCat as a computer-aided synthesis planning tool for biocatalytic reactions and cascades](https://www.nature.com/articles/s41929-020-00556-z)
+Finnigan, W., Hepworth, L.J., Flitsch, S.L., & Turner, N.J. (2021). [RetroBioCat as a computer-aided synthesis planning tool for biocatalytic reactions and cascades](https://www.nature.com/articles/s41929-020-00556-z). *Nature Catalysis*, 4, 98-104.
 
 [2] Sankaranarayanan, K., Heid, E., Coley, C.W., Verma, D., Green, W.H., & Jensen, K.F. (2022). [Similarity based enzymatic retrosynthesis](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d2sc01588a). *Chemical Science*, 13, 6039-6053.
 
