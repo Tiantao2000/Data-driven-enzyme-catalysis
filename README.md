@@ -23,9 +23,6 @@
 
 📅 _ updated on 2024-11-01:_
 
-## Cntribution
-
-[Contributions](https://github.com/Tiantao2000/Data-driven-enzyme-catalysis/blob/main/CONTRIBUTING.md) and [suggestions](https://github.com/Tiantao2000/Data-driven-enzyme-catalysis/issues) are warmly welcome! 
 
 ---
 ## 1. Introduction
@@ -88,6 +85,11 @@ Finnigan, W., Hepworth, L.J., Flitsch, S.L., & Turner, N.J. (2021). [RetroBioCat
 
 ## 6. Discussion
 ---
+## Cntribution
+
+[Contributions](https://github.com/Tiantao2000/Data-driven-enzyme-catalysis/blob/main/CONTRIBUTING.md) and [suggestions](https://github.com/Tiantao2000/Data-driven-enzyme-catalysis/issues) are warmly welcome! 
+
+
 
 <picture>
   <source
