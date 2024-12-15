@@ -35,7 +35,10 @@
 📅 Important Papers last ten month, updated on 2024-12-15:
 [1] Wang, X., Quinn, D., Moody, T. S., et al. (2024). [ALDELE: All-purpose deep learning toolkits for predicting the biocatalytic activities of enzymes](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00058). *Journal of Chemical Information and Modeling*, 64(8), 3123-3139.
 [2] Hua, C., Liu, Y., Zhang, D., et al. (2024). [Enzymeflow: Generating reaction-specific enzyme catalytic pockets through flow matching and co-evolutionary dynamics](https://arxiv.org/abs/2410.00327). *arXiv preprint arXiv:2410.00327*.
-[3] Hua, C., Liu, Y., Zhang, D., et al. (2024). [Enzymeflow: Generating reaction-specific enzyme catalytic pockets through flow matching and co-evolutionary dynamics](https://arxiv.org/abs/2410.00327). *arXiv preprint arXiv:2410.00327*.
+[3] Song, Z., Zhao, Y., Shi, W., et al. (2024). [Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates](https://arxiv.org/abs/2405.08205). *arXiv preprint arXiv:2405.08205*.
+[3] Hua, C., Zhong, B., Luan, S., et al. (2024). [Reactzyme: A benchmark for enzyme-reaction prediction](https://arxiv.org/abs/2408.13659). *arXiv preprint arXiv:2408.13659*.
+
+
 
 
 
