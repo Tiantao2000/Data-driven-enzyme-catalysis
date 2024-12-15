@@ -1,4 +1,4 @@
-🔍 This is a repository for Data-Driven methods of Enzyme Catalysis.
+# 🔍 This is a repository for Data-Driven methods of Enzyme Catalysis.
 ---
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-✅ __What sets us apart from similar resources:__
+## ✅ __What sets us apart from similar resources:__
 
 1. Versatile Tags: Important papers that are Well Organized.
 2. Effortless Navigation: Internal links facilitate quick transitions between sections and papers.
