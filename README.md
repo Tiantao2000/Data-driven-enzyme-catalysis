@@ -21,7 +21,7 @@
 3. Tools collection: Potential tools for enzymatic catalysis are well collected.
 
 
-## 🪜 _ representative tools (only provide Websever):
+## 🪜 _ representative tools (only provide web sever):
 
 1. For Function annatation of Enzymes:
   
