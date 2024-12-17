@@ -51,7 +51,16 @@
 
 #### 4. For bio-retrosynthesis (or forward synthesis)
 
+[RetroBioCat] **RetroBioCat as a computer-aided synthesis planning tool for biocatalytic reactions and cascades** [Web server](https://retrobiocat.com)
+
+[BioNavi-NP] **Biosynthesis Navigator for Natural Products** [Web server](http://biopathnavi.qmclab.com/)
+
+[RetroPath RL] **Reinforcement learning for bioretrosynthesis** [Web server](https://github.com/brsynth/RetroPathRL)
+
 #### 5. Others
+
+[EnzymeFlow] **EnzymeFlow: Generating Reaction-specific Enzyme Catalytic Pockets through Flow Matching and Co-Evolutionary Dynamics** [Web server](https://github.com/WillHua127/EnzymeFlow/blob/main/enzymeflow_demo.ipynb)
+
 
 
 
