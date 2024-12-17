@@ -23,16 +23,33 @@
 
 ## 🪜 Representative tools (Web sever):
 
-1. For Function annatation of Enzymes:
+1. For annatation of Enzymes:
+
+[CLEAN] **Enzyme function prediction using contrastive learning**[[Web server]]([https://moleculemaker.org/alphasynthesis.]))
+
+[EasIFA] **Multi-modal deep learning enables efficient and accurate annotation of enzymatic active sites**[[Web server]]([http://easifa.iddd.group.]))
+
+[I-ASSER-MTD] **I-TASSER-MTD: a deep-learning-based platform for multi-domain protein structure and function prediction**[[Web server]]([https://zhanggroup.org/I-TASSER-MTD/.]))
+
+2. For enzyme/protein representation
+
+[ESM C] **Simulating 500 million years of evolution with a language model**[[Web server]]([https://openreview.net/forum?id=AQ1umQL7dZ&noteId=aDZgF11Qs0](https://forge.evolutionaryscale.ai))
+
+[GearNet] **Simulating 500 million years of evolution with a language model**[[Web server]]([https://openreview.net/forum?id=AQ1umQL7dZ&noteId=aDZgF11Qs0](https://forge.evolutionaryscale.ai))
 
 
+3. For mutant of enzymes
 
-3. For structure prediction of Enzymes
+
+4. For structure prediction of Enzymes
+
 [Alphafold 3] **Accurate structure prediction of biomolecular interactions with AlphaFold 3**[[Web server]](https://openreview.net/forum?id=AQ1umQL7dZ&noteId=aDZgF11Qs0)
-[RoseTTAFold ] **Accurate prediction of protein structures and interactions using a three-track neural network**[[Web server]]([https://openreview.net/forum?id=AQ1umQL7dZ&noteId=aDZgF11Qs0](https://robetta.bakerlab.org/))
 
+[RoseTTAFold 2] **Accurate prediction of protein structures and interactions using a three-track neural network**[[Web server]]([https://openreview.net/forum?id=AQ1umQL7dZ&noteId=aDZgF11Qs0](https://robetta.bakerlab.org/))
 
+[ESM 3] **Simulating 500 million years of evolution with a language model**[[Web server]]([https://openreview.net/forum?id=AQ1umQL7dZ&noteId=aDZgF11Qs0](https://forge.evolutionaryscale.ai))
 
+[Chai-1] **Chai-1: Decoding the molecular interactions of life**[[Web server]]([https://openreview.net/forum?id=AQ1umQL7dZ&noteId=aDZgF11Qs0](https://lab.chaidiscovery.com))
 
 5. For bio-retrosynthesis (or forward synthesis)
 
