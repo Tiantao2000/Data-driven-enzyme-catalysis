@@ -51,9 +51,7 @@
 
 #### 4. For bio-retrosynthesis (or forward synthesis)
 
-
-
-6. Others
+#### 5. Others
 
 
 
