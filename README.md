@@ -23,7 +23,7 @@
 
 ## 🪜 Representative tools (Web sever):
 
-#### 1. For annatation of Enzymes:
+#### 1. For annatation of Enzymes (including site prediction):
 
 [CLEAN] **Enzyme function prediction using contrastive learning** [[Web server]](https://moleculemaker.org/alphasynthesis.)
 
