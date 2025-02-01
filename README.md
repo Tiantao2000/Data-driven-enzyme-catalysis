@@ -64,7 +64,7 @@
 
 
 
-## 📅 Important Papers last ten month, updated on 2024-12-15:
+## 📅 Important Papers last ten month, updated on 2025-01-31:
 
 [1] Wang, X., Quinn, D., Moody, T. S., et al. (2024). [ALDELE: All-purpose deep learning toolkits for predicting the biocatalytic activities of enzymes](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00058). *Journal of Chemical Information and Modeling*, 64(8), 3123-3139.
 
@@ -73,6 +73,9 @@
 [3] Song, Z., Zhao, Y., Shi, W., et al. (2024). [Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates](https://arxiv.org/abs/2405.08205). *arXiv preprint arXiv:2405.08205*.
 
 [4] Hua, C., Zhong, B., Luan, S., et al. (2024). [Reactzyme: A benchmark for enzyme-reaction prediction](https://arxiv.org/abs/2408.13659). *arXiv preprint arXiv:2408.13659*.
+
+[4] Qian, W., Wang, X., Huang, Y., et al. (2024). [Deep Learning-Driven Insights into Enzyme–Substrate Interaction Discovery](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c01801). *Journal of Chemical Information and Modeling*.
+
 
 
 
